@@ -22,5 +22,5 @@ pip install six
 ```
 
 ## Output
-output.csv: Raw stock trading data downloaded from the TWSE.
-result.csv: Analyzed and ranked data.
+- output.csv: Raw stock trading data downloaded from the TWSE.
+- result.csv: Analyzed and ranked data.
